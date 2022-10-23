@@ -1,0 +1,22 @@
+{
+    "name": "kjs-skku-stat",
+    "version": "0.1.0",
+    "description": "\"# kjs-skku-stat\"",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kjs990114/kjs-skku-stat.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kjs990114/kjs-skku-stat/issues"
+    },
+    "homepage": "https://github.com/kjs990114/kjs-skku-stat#readme",
+    "bin": {
+        "stat": "./main.js"
+    }
+}
